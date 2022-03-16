@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💜 I code because ... I love languages and logic. I also speak German.
 - 💬 Ask me about ... my planned projects
 - 📫 How to reach me: ... My LinkedIn profile [here](https://www.linkedin.com/in/taraculpin/)
-- ⚡ Fun fact: ... The T. rex existed closer in history to humans than to the Stegosaurus
+- ⚡ Fun fact: ... The T. rex existed closer in history to humans than to the Stegosaurus 🦖 🤯
