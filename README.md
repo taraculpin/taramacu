@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ... my portfolio
+- 🔭 I’m currently working on ... a React AirBnB app
 - 🌱 I’m currently learning ... React and Redux
 - 💜 I code because ... I love languages and logic. I also speak German.
 - 💬 Ask me about ... my planned projects
